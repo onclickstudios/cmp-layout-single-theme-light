@@ -1,13 +1,13 @@
 
-# nclk-layout-single-theme-light
+# ctl-single-light
 
-  Light theme for the nclk-layout-single component
+  Light theme for the cl-single component
 
 ## Installation
 
   Install with [component(1)](http://component.io):
 
-    $ component install onclickstudios/nclk-layout-single-theme-light
+    $ component install onclickstudios/ctl-single-light
 
 ## API
 
