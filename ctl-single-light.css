@@ -2,7 +2,8 @@
   padding: 20px;
   width: 40%;
   margin: 0 auto; }
-
-form {
-  background: #dcf;
-  color: black; }
+  .cl-single form {
+    background: #dcf;
+    color: black; }
+    .cl-single form input {
+      display: block; }

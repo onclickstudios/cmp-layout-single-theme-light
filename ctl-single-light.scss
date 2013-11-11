@@ -2,9 +2,14 @@
   padding: 20px;
   width: 40%;
   margin: 0 auto;
-}
-
-form {
-  background: #dcf;
-  color: black;
+  
+  form {
+    background: #dcf;
+    color: black;
+    
+    input {
+      display: block;
+    }
+  }
+  
 }
