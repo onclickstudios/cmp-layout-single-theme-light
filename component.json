@@ -4,7 +4,9 @@
   "description": "Light theme for the cmp-layout-single component",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "onclickstudios/ct-reset-eric-meyer":"*"
+  },
   "development": {},
   "license": "MIT",
   "styles": [
